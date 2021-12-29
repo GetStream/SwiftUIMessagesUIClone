@@ -17,6 +17,7 @@ The SwiftUI Messages UI Clone consists of layout and composition clones of the i
 6. Love
 7. Tail
 8. Writing
+9. Combined screen effects
 
 ## Interaction Styles
 1. Tap and hold to reveal context menus

@@ -2,7 +2,7 @@
 //  LoudEffect.swift
 //  iMessageClone
 //
-//  Created by amos.gyamfi@getstream.io on 18.12.2021.
+//  Created by Amos from getstream.io on 18.12.2021.
 //
 
 import SwiftUI

@@ -1,14 +1,14 @@
 # SwiftUI Messages UI Clone, Bubble Effects, Screen Effects and Animations
 The SwiftUI Messages UI Clone consists of layout and composition clones of the iOS Messages app. It has Messages-like bubble and screen effects, reactions, and animations, all created with SwiftUI. 
 
-## Messages-like Screen Effects 
-![Messages-like Screen Effects ](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/M/allScreenEffects.gif)
+![Messages-like Screen Effects ](https://github.com/GetStream/SwiftUIMessagesUIClone/blob/main/GIF%20previews/echo.gif)
 
 ## Main Screens
 1. Messages List (contacts)
 2. Conversations (outgoing and incoming messages)
 
 ## Animations: Bubble and Screen Effects
+![Messages-like Screen Effects ](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/M/allScreenEffects.gif)
 1. Echo
 2. Cerebration
 3. Confetti
